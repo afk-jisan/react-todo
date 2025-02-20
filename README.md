@@ -1,7 +1,3 @@
-Here’s a short README for the converted version:  
-
----
-
 # Todo App (Compiled Version)  
 
 This repository contains the **compiled** version of the ReactJS Todo App. The source code was originally built with React and has been converted into static HTML, CSS, and JavaScript files.  
